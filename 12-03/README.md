@@ -26,7 +26,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Задание 1](https://github.com/wintercomesX/12-03/blob/main/12-03/img/task1.PNG)`
+![Задание 1](https://github.com/wintercomesX/12-03/blob/main/12-03/img/task1.png)`
 
 
 ---
@@ -35,7 +35,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Задание 2](https://github.com/wintercomesX/12-03/blob/main/12-03/img/task2.PNG)`
+![Задание 2](https://github.com/wintercomesX/12-03/blob/main/12-03/img/task2.png)`
 
 
 ---
@@ -45,11 +45,11 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Задание 3](https://github.com/wintercomesX/12-03/blob/main/12-03/img/task3.PNG)`
+![Задание 3](https://github.com/wintercomesX/12-03/blob/main/12-03/img/task3.png)`
 
 ### Задание 4
 
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Задание 3](https://github.com/wintercomesX/12-03/blob/main/12-03/img/task4.PNG)`
+![Задание 3](https://github.com/wintercomesX/12-03/blob/main/12-03/img/task4.png)`
