@@ -35,7 +35,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Задание 2](https://github.com/wintercomesX/12-03/blob/main/12-03/img/task2.png)`
+![Задание 2](https://github.com/wintercomesX/12-03/blob/main/12-03/img/task2.2.png)`
 
 
 ---
